@@ -1,4 +1,4 @@
-# Rainfall-Prediction-and-Classification-Using-Machine-Learning-Algorithms
+# Rainfall Prediction and Classification Using Machine Learning Algorithms
 
 ntroduction:
 This project focuses on analyzing a rainfall dataset obtained from the Australian Government's Bureau of Meteorology. The objective is to apply various classification algorithms to the data, assess their performance, and predict rainfall patterns accurately. By leveraging machine learning techniques, we aim to build models that can effectively classify rainfall occurrences based on relevant features in the dataset.
